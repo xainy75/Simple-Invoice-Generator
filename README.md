@@ -28,5 +28,14 @@ A simple and reliable invoice generator that calculates totals, applies discount
 * Discount System + Invoice Export
 * User can apply a percentage discount on subtotal
 * Final invoice is saved automatically to a .txt file for record keeping
+
+**Code screenshots**
+<img width="1396" height="1069" alt="Screenshot 2026-01-30 174913" src="https://github.com/user-attachments/assets/77cb6b3a-a69b-40fd-aa2c-7441c9d701e3" />
+**Invoice Generator Screenshots**
+<img width="502" height="456" alt="Screenshot 2026-01-30 174954" src="https://github.com/user-attachments/assets/302742d2-1dcd-4f59-8095-0f66d0d21494" />
+
+
+
+
 <br>
 Author - Zain Ul Abidin
